@@ -14,3 +14,5 @@
 - Planning to study - Angular, React, Vuejs, Svelte, Flutter, Ionic, etc., 😜😜
 
 ---
+![Vuelancer Github Stats](https://github-readme-stats.vercel.app/api?username=selvakumardhivakar&show_icons=true)
+---
