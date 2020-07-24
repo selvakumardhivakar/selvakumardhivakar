@@ -1,4 +1,8 @@
+<!--
 [![Vuelancer](https://yt3.ggpht.com/a-/AOh14Gg9FpIER198gr8iephfzZZJJ4mvDzNE-kLOOkRWfA=s100-c-k-c0xffffffff-no-rj-mo)](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
+ -->
+ 
+ <img align="right" src="https://yt3.ggpht.com/a-/AOh14Gg9FpIER198gr8iephfzZZJJ4mvDzNE-kLOOkRWfA=s100-c-k-c0xffffffff-no-rj-mo"/>
 
 ## Hii Vuelancers! 💻🕺
 
