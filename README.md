@@ -17,5 +17,5 @@
 - Planning to study - Angular, React, Vuejs, Svelte, Flutter, Ionic, etc., 😜😜
 
 ## Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=selvakumardhivakar&layout=compact&show_icons=true&theme=merko" alt="Vuelancer github stats"/>
-<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumardhivakar&layout=compact&show_icons=true&theme=merko" alt="Vuelancer lang stats"/>
+<img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=selvakumardhivakar&layout=compact&show_icons=true&theme=merko" alt="Vuelancer github stats"/>
+<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumardhivakar&layout=compact&show_icons=true&theme=merko" alt="Vuelancer lang stats"/>
