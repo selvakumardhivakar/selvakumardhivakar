@@ -8,7 +8,7 @@ I've been learning coding for 5 years and have great exposure in javascript full
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [selvakumardhivakar@gmail.com](mailto:selvakumardhivakar@gmail.com)
-* 🚀  I'm currently working on [Infosys](http://www.infosys.com/)
+* 🚀  I'm currently working on [Infosys](http://www.infosys.com/) as Specialist Programmer
 * 🧠  I'm learning Redwoodjs
 * 🤝  I'm open to collaborating on projects that can be interesting now & then
 * ⚡  In love with Javascript
