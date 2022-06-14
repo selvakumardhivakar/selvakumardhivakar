@@ -13,6 +13,10 @@ I've been learning coding for 5 years and have great exposure in javascript full
 * 🤝  I'm open to collaborating on projects that can be interesting now & then
 * ⚡  In love with Javascript & C++
 
+### Coding platform
+* [Leetcode](https://leetcode.com/selvakumardhivakar)
+* [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dhivakars1)
+
 ### Skills
 
 <p align="left">
