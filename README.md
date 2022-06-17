@@ -4,7 +4,7 @@ Hi 👋 My name is Dhivakar Selvakumar
 Full Stack Developer
 --------------------
 
-I've been learning coding for 5 years and have great exposure in javascript full-stack frameworks.
+I've been learning coding for 6+ years and have great exposure in javascript full-stack frameworks.
 * 💻  Check my leetcode profile to understand more about me [selvakumardhivakar](https://leetcode.com/selvakumardhivakar)
 * 🌍  I'm based in India
 * ✉️   You can contact me at [selvakumardhivakar@gmail.com](mailto:selvakumardhivakar@gmail.com)
