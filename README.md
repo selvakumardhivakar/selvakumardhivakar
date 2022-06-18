@@ -1,15 +1,13 @@
-Hi 👋 My name is Dhivakar Selvakumar
+I'm Dhivakar Selvakumar
 ====================================
-
 Full Stack Developer
 --------------------
-
 I've been learning coding for 6+ years and have great exposure in javascript full-stack frameworks.
-* 💻  Check my leetcode profile to understand more about me [selvakumardhivakar](https://leetcode.com/selvakumardhivakar)
+* 💻  Check my leetcode profile to understand more about me [linkedin](https://www.linkedin.com/in/selvakumardhivakar/) & [leetcode](https://leetcode.com/selvakumardhivakar)
 * 🌍  I'm based in India
 * ✉️   You can contact me at [selvakumardhivakar@gmail.com](mailto:selvakumardhivakar@gmail.com)
 * 🚀  I'm currently working on [Infosys](http://www.infosys.com/) as Specialist Programmer
-* 🧠  I'm currently exploring Redwoodjs & creating sample applications
+* 🧠  I'm currently exploring Redwoodjs
 * 🤝  I'm open to collaborating on projects that can be interesting now & then
 * ⚡   In love with Javascript & C++
 
